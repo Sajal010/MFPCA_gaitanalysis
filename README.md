@@ -73,7 +73,7 @@ The feature components can be arranged as a vector <img src="https://render.gith
 <img src="https://render.githubusercontent.com/render/math?math=%5Cbegin%7Bequation%7D%0A%20zGDI%5E%7B%5Ctext%7Ba%7D%7D_%7B%5Ctext%7Baverage%20control%7D%7D%20%3D%20%5Cfrac%7B(GDI%5E%7B%5Ctext%7Ba%7D%7D_%7B%5Ctext%7Baverage%20control%7D%7D%20-%20Mean(GDI%5E%7B%5Ctext%7Ba%7D%7D_%7B%5Ctext%7Baverage%20control%7D%7D)%7D%7BS.D.(GDI%5E%7B%5Ctext%7Ba%7D%7D_%7B%5Ctext%7Baverage%20control%7D%7D)%7D%0A%20%20%5Cend%7Bequation%7D">.
 
 
-8. For ease of interpretation, the z-score was multiplied by 10 and subtracted from 100 i.e.; <img src="https://render.githubusercontent.com/render/math?math=GDI%5E%7B%5Ctext%7Bk%7D%7D_%7B%5Ctext%7Baverage%20control%7D%7D%3D100%20-%20zGDI%5E%7B%5Ctext%7Ba%7D%7D_%7B%5Ctext%7Baverage%20control%7D%7D%20">.
+8. For ease of interpretation, the z-score was multiplied by 10 and subtracted from 100 i.e.; <img src="https://render.githubusercontent.com/render/math?math=GDI%5E%7B%5Ctext%7Ba%7D%7D_%7B%5Ctext%7Baverage%20control%7D%7D%3D100%20-%20zGDI%5E%7B%5Ctext%7Ba%7D%7D_%7B%5Ctext%7Baverage%20control%7D%7D%20">.
 
 The GDI is mostly useful in application related to feature analysis such as cluster analysis or subject matching. It compares the curves to each other and compute a one point measure i.e., GDI of whole time series curve neglecting the full domain's shape and functional behaviour which can be of utmost importance. Such measure can quantify the overall severity of a condition affecting walking or monitor progress but can't use the entire stride of gait to detect any location or magnitude of difference within the entire gait cycle. Mainly, it is a Quantitative “severity” index - based on kinematics of the gaits.
 
