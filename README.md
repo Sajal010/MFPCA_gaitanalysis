@@ -1,7 +1,7 @@
+
 # Multivariate functional principal component analysis on high dimensional gait data
 
-
-
+![gait_cycle-2](https://user-images.githubusercontent.com/72037180/120051152-6539ce00-c017-11eb-9de6-6d3547242e7c.png)
 
 ## Overview
 
