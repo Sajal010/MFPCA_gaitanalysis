@@ -26,7 +26,7 @@ The dataset is available from this [website](https://wwrichard.net/resources/gps
 <li>the ankle in left-right direction,</li>
 <li>and the footprogression in left-right direction.</li>
 </ul>
-were recorded over the entire gait cycle ranging over 51-time points. The gait cycle is measured from heel-strike to heel-strike (i.e. when one-foot contacts the ground to when that same foot again contacts the ground again) as shown in above Figure. The data exhibits considerably different gait patterns over the different kinematic variables as well as large variation among subjects. The data which is used as an example for this study can be found in `Data.R` file which is stored in the format for the study.
+were recorded over the entire gait cycle ranging over 51-time points. The gait cycle is measured from heel-strike to heel-strike (i.e. when one-foot contacts the ground to when that same foot again contacts the ground) as shown in above Figure. The data exhibits considerably different gait patterns over the different kinematic variables as well as large variation among subjects. The data which is used as an example for this study can be found in `Data.R` file which is stored in the format for the study.
 
 
 #### Aim of this work
